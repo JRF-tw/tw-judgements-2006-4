@@ -1,0 +1,503 @@
+【裁判字號】    95,訴,977
+【裁判日期】    951031
+【裁判案由】    進口貨物核定完稅價格
+【裁判全文】
+臺北高等行政法院判決
+                                     95年度訴字第00977號
+                              .
+原      告  美商‧大溪地諾麗國際行銷股份有限公司台灣分公
+            司
+代  表  人  甲○○
+送達代收人  乙○○
+訴訟代理人  蔡胥捷律師
+複  代理人  邱祥榮律師
+被      告  財政部基隆關稅局
+代  表  人  陳天生（局長）住同上
+訴訟代理人  丙○○兼送達代收.
+            丁○○
+上列當事人間因進口貨物核定完稅價格事件，原告不服財政部中
+華民國95年1 月13日台財訴字第09400496760 號訴願決定，提起
+行政訴訟。本院判決如下：
+    主  文
+原告之訴駁回。
+訴訟費用由原告負擔。
+    事  實
+一、事實概要：
+    原告於民國（下同）94年2 月18日，委由國泰合記報關股份
+    有限公司向被告所屬五堵分局申報進口美國製大溪地諾麗果
+    汁等乙批計4 項（報單第AW/BC/94/U489/7004號），原申報
+    單位價格第1 、2 、4 項均為CIF USD22.6/CAS 、第3 項CI
+    F USD9.98/PCE ，經被告依關稅法第18條第1 項規定按原告
+    應申報之事項，先行徵稅驗放，事後再加審查。嗣據關稅總
+    局驗估處（以下稱驗估處）查價結果，來貨第1 、4 項應分
+    別加計費用USD16,800 、第2 項應加計費用USD15,120 、第
+    3 項應加計費用USD1,575核估完稅價格，被告據以增估補稅
+    ，惟原告不服，申請復查，未獲變更，向財政部提起訴願，
+    經財政部95年1 月13日台財訴字第09400496760 號訴願決定
+    駁回，原告仍不服，遂向本院提起行政訴訟。
+二、兩造聲明：
+  (一)原告聲明：訴願決定、復查決定及原處分均撤銷。
+  (二)被告聲明：原告之訴駁回。
+三、兩造之爭點：
+   系爭Information Technology Software （資訊軟體）及
+   Licensing and Sales（Business Know-How）（銷 售技術）
+   之權利金是否與進口貨物有關，且為交易條件，而應依行為
+   時關稅法第25條第3 項第3 款規定併同原告無異議之商標權
+   利金合併加計核估完稅價格？
+(一)原告主張之理由：
+  1.我國關稅法規定：
+      (1)按關稅法第29條第3 項第3 款規定：「進口貨物之實付
+        或應付價格，如未計入下列費用者，應將其計入完稅價
+        格：…三、依交易條件由買方支付之權利金及報酬。」
+        又關稅法施行細則第12條第2 項明定：「本法第25條第
+        3 項第3 款所稱權利金及報酬，指為取得專利權、商標
+        專用權、著作權及其他以立法保護之智慧財產權所支付
+        與進口貨物有關之價款。但不包括為取得於國內複製進
+        口貨物之權利所支付之費用。」因此，不屬於關稅法施
+        行細則第12條第2 項所規範者，即非屬關稅法第29條第
+        3 項第3 款所規定應計入完稅價格之權利金及報酬。
+      (2)被告機關於復查決定書一再提及：「本案仍依關稅法第
+        29條第3 項第3 款按商品點數QV（QUALIFYING VALUE）
+        值之1%加計「商標權利金」，同法第29條第3 項第4 款
+        按商品點數QV值之5%加計「銷售權利金」及按商品點數
+        QV值120%之1%加計「資訊軟體權利金」核估完稅價格，
+        惟「銷售技術權利金」及「資訊軟體權利金」仍屬智慧
+        財產權範疇，合於關稅法施行細則第12條第2 項所稱：
+        「…權利金及報酬，指為取得專利權、商標專用權、著
+        作權及其他以立法保護之智慧財產權所支付與進口貨物
+        有關之價款。…」，該2 項依關稅法第29條第3 項第3
+        款規定，應計入完稅價格。本局據以將來貨每箱加計權
+        利金USD8.4核估完稅價格，於法洵無不合。」原告認為
+        ，該復查決定理由，實為擴大解釋關稅法第29條條文之
+        行為。關稅法既已於同法同條同項之第3 款規範加計權
+        利金及報酬之事項，自無於同法同條同項之第4 款重覆
+        規範加計權利金及報酬至交易價格事項之道理。被告復
+        查決定在此援引關稅法第25條第3 項第3 款與第4 款之
+        規定，隨意變換使用，莫衷一是，顯與立法意旨有所不
+        合，致納稅義務人深感無所適從。
+    2.財政部訴願審議委員會於94年9 月5 日台財訴字第094003
+      70580 號訴願決定，援引美國相關規定，與原告情形有所
+      不符：
+      (1)按訴願決定書第4 段聲稱：「參據美國海關網站上對外
+        公開發佈之『CUSTOMS VALUATION ENCYCLOPEDIA JUNE,
+        2004』一書中第340 頁第1 段：「Regarding the duti
+        ability of royalty payments, three factors are r
+        elevant in assisting in the determination of whe
+        ther payments are related to the imported mercha
+        ndise and are a condition of sale. These factors
+        are : 1 」whether the imported merchandise was m
+        anufactured under patent; 2)whether the royalty
+        was involved in the production or sale of the im
+        ported merchandise; 3)whether the importer could
+        buy the product without paying the fee. 」第2 段
+        ：「Negative response to factors one and two and
+        an affirmative response to factors three point t
+        o non-dutiablity. 」（略譯：有關權利金，有下列3
+        個相關因素可協助決定是否與進口貨物有關及是否係銷
+        售條件：1.進口貨物之製造是否涉及專利。2.權利金是
+        否與進口貨物之生產或銷售有關。3.進口人是否不付該
+        費用仍可購買該貨物。若1.及2.的答案是否定，且3.的
+        答案是肯定的話，則權利金不應加計）。
+      (2)申言之，其判斷標準為「若1.及2.的答案是否定，且3.
+        的答案是肯定的話，則權利金不應加計」。換言之，若
+        1.及2.兩者之中，有任一項之答案為否定，則權利金不
+        應加計。
+      (3)原告逐一檢視上開3 項要素，分析如下：
+        Whether the imported merchandise was manufactu
+          red under patent. 本要素的答案為肯定。
+        Whether the royalty was involved in the produc
+          tion or sale of the imported merchandise. 本要
+          素的答案為否定。系爭Information Technology Sof
+          tware 與Business Know-How ，確與生產系爭進口商
+          品無關，亦即與出口人「production of the import
+          ed merchandise」無涉，應無爭議，自不待言。雖然
+          其對於大溪地諾麗臺灣分公司在臺灣推廣行銷系案大
+          溪地諾麗果汁多有助益，卻與出口人自國外銷售系爭
+          貨品予進口人之交易無關，亦即，與「sale of the
+          imported merchandise」無涉。訴願審議委員會一時
+          不察，誤以為系爭Information Technology Softwar
+          e 與Business Know-How 係因為該進口交易行為而發
+          生，邏輯上顯不合理，或為誤會而產生如此與原告情
+          形不符之認知。
+        Whether the importer could buy the product wit
+          hout paying the fee.本要素之答案為肯定。據上，
+          要素1 與3 之答案為肯定，要素2 之答案為否定，顯
+          然根據系案訴願審議委員會所援引之美國關稅相關規
+          定之判斷標準，縱使系爭Information Technology S
+          oftware 及Business Know How 為權利金，然卻非屬
+          關稅法規範應計入完稅價格之權利金，敬請查照。
+    3.WTO 暨其他國家規定：
+      (1)世界貿易組織（World Trade Organization）（下稱「
+        WTO 」）就各會員國課徵關稅事項，有1994年「關稅及
+        貿易總協定第7 條執行協定」（Agreement on Impleme
+        ntation of Article VII of the General Agreement
+        on Tariffs and Trade 1994 ），做為規範之標準。
+      (2)經查，1994年「關稅及貿易總協定第7 條執行協定」第
+        1 條解釋內容1.（b ）稱買方為自己利益（即使係與賣
+        方以合約訂定）所為與推廣銷售進口貨物之行為，其所
+        發生之費用，不視為完稅價格之一部分。又第8 條1.（
+        c ）2.附註亦明定買方為取得經銷或銷售進口貨物之權
+        利所支付費用，如非出口銷售進口貨物至進口國之條件
+        時，不應加計至進口貨物實付或應付價格內。
+      (3)依前述協定，買方為取得經銷或銷售進口貨物之權利所
+        支付費用，其是否應加計至進口貨物實付或應付價格內
+        ，端視該費用是否為出口銷售該進口貨物至進口國之銷
+        售條件（Condition of Sale ）而定。原告進口系案貨
+        物所支付之貨物價格及系爭Information Technology S
+        oftware 及Business Know How 之費用，係出口人委由
+        專家所研究，在各國一致引用者。出口人出口至韓國，
+        其計價結構與方法，與出口人出口至臺灣，完全相同。
+        系爭Information Technology Software 及Business
+        Know How，經韓國關稅局（Korea Customs Service ）
+        多次開會審議之結果，為「不屬於關稅法課徵關稅範圍
+        之權利金」之決議。其決議內容翻譯如下：「根據韓國
+        關稅法，本案Information Technology Software 及Bu
+        siness Know How 係屬營業秘密（Business Secrets
+        ），不屬於關稅法所定義之權利金，不應課以關稅。查
+        依照關稅法，權利金（Royalty ）必須在以下兩個要件
+        都符合之情況下，始應課以關稅：其一為〝Related to
+        the Imported Licensed Products〞（與進口授權貨物
+        有關），另一為〝Directly or indirectly paid on t
+        he Condition of the Transaction of the licensed
+        Products〞（直接或間接為該進口交易之故而支付）。
+        根據瞭解，本案Information Technology Software 及
+        Business Know How 符合第2 項要件，但不符合第1 項
+        要件，因此不應課以關稅。進一步說明，符合第1 項要
+        件之情況，包括以下任何一種情形：
+        進口貨物係由Information Technology Software或
+          Business Know How所發明而受立法保護；
+        進口貨物係由Information Technology Software或
+          Business Know How 所製造；或
+        進口之原料或半成品須仰賴該Information Technolo
+          gy Software 或Business Know How 在目的地國家完
+          成製造成為成品。
+        經查本案進口貨物不符合上述3 種情形之任何一種，因
+        此不符合應課徵關稅之第1 項要件。據上，本案進口貨
+        物不應課以關稅。」此為韓國關稅局之看法，敬供  鈞
+        院酌參。
+      (4)再者，出口人出口至禁止直銷之國家，例如中國大陸，
+        則採行一般之零售方式，銷售系案進口商品，因而進口
+        商無須支付Information Technology Software 及Busi
+        ness Know-How 之費用予出口人，然其貨物價款與出口
+        至臺灣卻幾乎相同，甚至低上一些。試想，倘若Inform
+        ation Technology Software 及Business Know-How 真
+        如被告機關所指，為進口系案貨物之必備條款而必要支
+        付之使用，則相同之貨物，出口至禁止直銷之中國大陸
+        時，既無法以權利金之名目收取這兩項費用，豈有不以
+        直接灌入貨品單價之方式間接收取這兩項費用之道理？
+        原告進口系爭貨物之價格，卻不但不較中國大陸進口商
+        之進價為低，反而還較高，足資證明Information Tech
+        nology Software 及Business Know-How 並非原告進口
+        系爭貨物之必備條款而必要支付之費用。職是之故，In
+        formation Technology Software 及Business Know-Ho
+        w 必非為關稅法及其施行細則所規範為應稅之權利金項
+        目，其理自明。
+    4.應稅權利金與不屬於關稅法課徵範圍權利金之判別：
+      我國為貿易大國，況新近加入WTO ，若是置身於國際慣例
+      與趨勢之外，閉門造車，原告期期以為不可。系爭Inform
+      ation Technology Software 及Business Know-How ，不
+      但在WTO 之「1994年關稅暨貿易總協定第7 條執行協定」
+      之認定下，不屬於關稅課徵之標的，在前引美國海關規定
+      及韓國海關對同一出口人出口至韓國貨物之關稅認定上，
+      亦皆被認定為不需課徵關稅。而前揭國際慣例與認定標準
+      ，與我國關稅法之原則，亦無衝突矛盾之處。蓋我國關稅
+      法雖尚未針對權利金之關稅課稅細項部分，訂定如美國海
+      關與韓國海關所訂定之判別標準，然觀其立法意旨，與之
+      並無相悖。被告機關誤解其意，以為進口貨物之費用。只
+      要有「權」字者，即為「權利金」，令原告深感錯愕。現
+      今世界貿易日趨複雜繁複，各項貿易往來用語，往往須藉
+      由交易實質狀況，始能夠確定其性質與範圍，若逕由中文
+      譯文名猜測，則難免有曲解之情況產生。蓋名為「權利金
+      」者，亦有關稅法規及國際慣例所規定為應稅，亦有規定
+      為不應稅者，否則當各國關稅局都為自己國家之稅收，而
+      將所有名為「權利金」者，不論其為與進口貨物之製造或
+      購買有關而支付，或只是與進口人銷售產品或企業管理有
+      關之銷管費用，一概以「權利金」之名目計入完稅價格課
+      徵關稅，則國際貿易秩序必然大亂。此亦為何我國關稅法
+      第29條第3 項以及其施行細則第12條第2 項特別明定哪些
+      權利金為應稅，哪些權利金為不應稅之目的，也是為何美
+      國關稅局與韓國關稅局須明確規範權利金課徵關稅之課稅
+      原則之原因。以上不外乎在鞏固國家稅收之同時，亦須顧
+      及國際貿易之慣例，由長遠之角度觀之，對國家稅收有利
+      而無害。
+   (二)被告主張之理由：
+    1.按「從價課徵關稅之進口貨物，其完稅價格以該進口貨物
+      之交易價格作為計算根據。」、「進口貨物之實付或應付
+      價格，如未計入下列費用者，應將其計入完稅價格…三、
+      依交易條件由買方支付之權利金及報酬。四、買方使用或
+      處分進口貨物，實付或應付賣方之金額。」分別為關稅法
+      第29條第1 項及第3 項第3 、4 款所明定。本案貨物經核
+      國外發貨人與原告之「LICENSING AND SALES AGREEMENT
+      （BUESINESS KNOW-HOW）」（下稱「銷售技術權利金」）
+      、「TRADEMARK/TRADENAME LICENSING AGREEMENT 」（下
+      稱「商標權利金」）及「INFORMATION TECHNOLOGY SOFTW
+      ARE LICENSING AGREEMENT 」（下稱「資訊軟體權利金」
+      ）等合約，原告確須支付該3 項權利金，乃依關稅法第29
+      條第3 項第3 款加計「商標權利金」、「銷售技術權利金
+      」及「資訊軟體權利金」核估完稅價格，於法洵無不合。
+      原告於訴願書訴願理由三均已稱：「訴願人對於Trademar
+      k/Tradename 商標權利金應計入完稅價格，並無異議」，
+      又核「銷售技術權利金」及「資訊軟體權利金」合約內容
+      ，其中「LICENSING AND SALES AGREEMENT （BUSINESS K
+      NOW-HOW ）」中第1 頁已述明「銷售技術權利金」屬Lice
+      nsed Property ，另依第2 頁1.12載明「License Proper
+      ty」shall mean the Independent Distributor Network
+      ,the Distributor List,the Marketing Compensation P
+      lan,the Copyright,and the associated Know-how.及「
+      INFORMATION TECHNOLOGY SOFTWARE LICENSING AGREEMEN
+      T 」第1 頁亦述明所付「資訊軟體權利金」指substantia
+      l and valuable computer operating systems,informat
+      ion technology,software expertise,management syste
+      ms know-how and other software and intellectual pr
+      operty…，故本案權利金依合約所載係屬智慧財產權之範
+      疇，合於關稅法施行細則第12條第2 項所稱：「…權利金
+      及報酬，指為取得專利權、商標專用權、著作權及其他以
+      立法保護之智慧財產權所支付與進口貨物有關之價款。」
+      ，且原告為從事直銷業務之公司，系案貨物進口後，依國
+      外母公司之規定，皆需以直銷系統販售，「銷售技術權利
+      金」及「資訊軟體權利金」之支付，係為結合進口貨物及
+      進口人之直銷型態，而於中華民國境內以直銷方式售出，
+      如不支付，系案貨物亦不得以一般批發、零售方式售出，
+      則原告自無進口系案貨物之必要，換言之，本案如不支付
+      「銷售技術權利金」及「資訊軟體權利金」，則購買系案
+      貨物之交易即無法完成，故與進口貨物有關，且為交易條
+      件，被告依關稅法第29條第3 項予以加計，應屬合理適法
+      。
+    2.行政訴訟補充理由狀貳稱：「一、…第1 段：『Regardin
+      g the dutiability of royalty payments,three factor
+      s are relevant in assisting in the determination o
+      f whether payments are related to the imported mer
+      chandise and are a condition of sale. These factor
+      s are:1)whether the imported merchandise was manuf
+      actured under patent;2)whether the royalty was in
+      volved in the production or sale of the imported m
+      erchandise;3)whether the importer could buy the pr
+      oduct without paying the fee. 』第2 段：『Negative
+      responses to factors one and two and an affirmativ
+      e response to factors three point to non-dutiabili
+      ty. 」（略譯：有關權利金，有下列3 個相關因素可協助
+      決定是否與進口貨物有關及是否係銷售條件：1.進口貨物
+      之製造是否涉及專利。2.權利金是否與進口貨物之生產或
+      銷售有關。3.進口人是否不付該費用仍可購買該貨物。若
+      1 及2 的答案是否定，且3 的答案是肯定的話，則權利金
+      不應加計）。二、申言之，其判斷標準為『若1 及2 的答
+      案是否定，且3 的答案是肯定的話，則權利金不應加計』
+      。…三、原告逐一檢視上開3 項要素，分析如下：(1)Whet
+      her the imported merchandise was manufactured unde
+      r patent. 本要素的答案為肯定。(2)Whether the royalt
+      y was involved in the production or sale of the im
+      ported merchandise. 本要素的答案為否定。系爭Inform
+      ation technology software 與Business Know-How ，卻
+      與生產系爭進口商品無關，亦即與出口人「production o
+      f the imported merchandise」無涉，雖然其對於大溪地
+      諾麗台灣分公司在台灣推廣行銷系案大溪地諾麗果汁多有
+      助益，卻與出口人自國外銷售系爭貨品予進口人之交易無
+      關…(3)Whether the importer could buy the product w
+      ithout paying the fee.本要素的答案為肯定。據上，要
+      素1 與3 之答案為肯定，要素2 之答案為否定，顯然根據
+      系案訴願審議委員會所援引之美國關稅相關規定之判斷標
+      準，縱使系爭Information Technology Software 及Busi
+      ness Know How 為權利金，然卻非屬關稅法規範應計入完
+      稅價格之權利金，敬請查照。」乙節，查該3 項要素係美
+      國海關網站上對外公開發布之「CUSTOMS VALUATION ENCY
+      CLOPEDIA JUNE,2004」一書中第340 頁所載協助判定是否
+      與進口貨物有關及是否係銷售條件，依要素2 所稱(2)Whet
+      her the royalty was involved in the production or
+      sale of the imported merchandise. 原告支付之權利金
+      雖與生產系爭進口商品無關，然卻與銷售系爭進口商品大
+      溪地諾麗果汁有關，原告稱要素2 之答案為否定，應屬誤
+      判所致，另依要素3 (3)Whether the importer could buy
+      the product without paying the fee. ，查本案原告與
+      國外出口人具特殊關係，依書面合約應支付權利金，所稱
+      要素3 的答案為肯定乙節，顯非實情。綜上，本案要素1
+      及2 答案為肯定，要素3 的答案為否定，該二權利金與進
+      口貨物有關且為銷售條件至為明確。
+    3.行政訴訟補充理由狀參、三稱：「…買方為取得經銷或銷
+      售進口貨物之權利所支付費用，其是否應加計至進口貨物
+      實付或應付價格內，端視該費用是否為出口銷售該進口貨
+      物至進口國之銷售條件（Condition of Sale ）而定…。
+      系爭Information Technology Software 及Business Kno
+      w How ，經韓國關稅局（Korea Customs Service ）多次
+      開會審議之結果，為「不屬於關稅法課徵關稅範圍之權利
+      金」之決議…」乙節，本案依前段所稱根據原告與賣方之
+      合約該二權利金與進口貨物有關且為銷售條件，自應加計
+      列入完稅價格，至所附韓國關稅局之決議既非判例、亦非
+      正式文書，且韓國關稅局依該國關稅法之決議，與中華民
+      國海關依中華民國關稅法所為之決定無涉。又本案出口人
+      為世界知名廠商，貨品行銷全世界，卻僅提供韓國關稅局
+      之決議，而未持平提供全世界其餘國家加計權利金情形，
+      顯不足採。
+    4.行政訴訟補充理由狀參、四（訴訟補充理由狀誤為參、三
+      ）稱：「再者，出口人出口至禁止直銷之國家，例如中國
+      大陸，則採行一般之零售方式，銷售系案進口商品，因而
+      進口商無須支付Information Technology Software 及Bu
+      siness Know-How 之費用予出口人，然其貨物價款與出口
+      至臺灣卻幾乎相同，甚至低上一些。試想，倘若Informat
+      ion Technology Software 及Business Know-How 真如被
+      告機關所指，為進口系案貨物之必備條款而必要支付之使
+      用，則相同之貨物，出口至禁止直銷之中國大陸時，既無
+      法以權利金之名目收取這兩項費用，豈有不以直接灌入貨
+      品單價之方式間接收取這兩項費用之道理？…足資證明In
+      formation Technology Software 及Business Know-How
+      並非原告進口系爭貨物之必備條款而必要支付之費用。」
+      乙節，查原告雖稱中國大陸進口系案貨物禁止採直銷方式
+      ，惟原告又自稱系案貨物自美國出口至全世界（除中國大
+      陸外），皆以直銷系統販售，故姑不論中國大陸進口系案
+      貨物之進口行為已非系案貨物貿易行為之常態，不得據以
+      作為比較，況所稱與本案無涉，自非可採。
+    理  由
+一、本件起訴時被告之代表人為李榮達，嗣於本件訴訟程序進行
+    中變更為陳天生，茲由其聲明承受訴訟，核無不合，應予准
+    許，合先敘明。
+二、按「從價課徵關稅之進口貨物，其完稅價格以該進口貨物之
+    交易價格作為計算根據。」、「前項交易價格，指進口貨物
+    由輸出國銷售至中華民國實付或應付之價格。」、「進口貨
+    物之實付或應付價格，如未計入下列費用者，應將其計入完
+    稅價格：．．．三、依交易條件由買方支付之權利金及報酬
+    。四、買方使用或處分進口貨物，實付或應付賣方之金額。
+    …」分別為關稅法第29條第1 項、第2 項及第3 項第3 、4
+    款所明定。
+三、本件原告於94年2 月18日，委由國泰合記報關股份有限公司
+    向被告所屬五堵分局申報進口美國製大溪地諾麗果汁等乙批
+    計4 項（報單第AW/BC/94/U489/7004號），原申報單位價格
+    第1 、2 、4 項均為CIF USD22.6/CAS 、第3 項CIF USD9.9
+    8/PCE ，經被告依關稅法第18條第1 項規定按原告應申報之
+    事項，先行徵稅驗放，事後再加審查。嗣據驗估處查價結果
+    ，來貨第1 、4 項應分別加計費用USD16,800 、第2 項應加
+    計費用USD15,120 、第3 項應加計費用USD1,575核估完稅價
+    格，被告據以增估補稅。原告不服，主張關於進口貨物之完
+    稅價格，被告援引關稅法第29條第3 項第4 款之規定，據以
+    核定補徵納稅義務人稅款，原告對於TRADEMARK/TRADENAME
+    商標權利金應計入完稅價格，並無異議，然對於INFORMATIO
+    N TECHNOLOGY SOFTWARE 資訊軟體權利金及LICENSING AND
+    SALES （BUSINESS KNOW-HOW ）銷售技術權利金亦被計入完
+    稅價格不服，申請復查，未獲變更，向財政部提起訴願，經
+    財政部95年1 月13日台財訴字第09400496760 號訴願決定駁
+    回，原告仍不服，遂向本院提起行政訴訟。並為事實欄所載
+    各節之主張。是本件應審酌者厥為：系爭Information Tech
+    nology Software （資訊軟體）及Licensing and Sales （
+    Business Know-How ）（銷售技術）之權利金是否與進口貨
+    物有關，且為交易條件，而應依行為時關稅法第25條第3項
+    第3 款規定併同原告無異議之商標權利金合併加計核估完稅
+    價格？茲分別說明如下：
+  (一)按「進口貨物之實付或應付價格，如未計入下列費用者，應
+    將其計入完稅價格：．．．三、依交易條件由買方支付之權
+    利金及報酬。」，關稅法第29條第3 項第3 款定有明文。次
+    按「本法第29條第3 項第3 款所稱權利金及報酬，指為取得
+    專利權、商標專用權、著作權及其他以立法保護之智慧財產
+    權所支付與進口貨物有關之價款。但不包括為取得於國內複
+    製進口貨物之權利所支付之費用。」，復為關稅法施行細則
+    第12條第2 項所規定。又對於核定完稅價格有爭議時，除依
+    關稅法及其施行細則相關規定認定外，並參考西元1994年關
+    稅暨貿易總協定（GATT）第7 條執行協定原則，及世界關務
+    組織（WCO）關 稅估價技術委員會發行之相關資料辦理，依
+    GATT第7 條執行協定第8 條1 、（C）規 定，依交易條件由
+    買方直接或間接支付與該進口貨物有關之權利金及報酬，應
+    計入完稅價格之內，亦為財政部86年7 月14日台財關字第86
+    0182998 號函所明釋。
+  (二)遞以我國關稅法並未針對權利金之關稅課稅細項部分訂定如
+    美國海關與韓國海關所訂定之判別標準，是系爭權利金是否
+    為本件進口貨物之交易條件，自應以契約（即CONTRACT）或
+    合約、協議（即AGREEMENT ）為準。經查本件原告與MORIND
+    A 公司所訂立之軟體授權合約第3 頁記載「2.5 Royalties.
+    As compemsation for the exclusive licenses qranted p
+    ursuant to the terms of this Agreement, Licensee wil
+    l pay to MI a royalty equal to one percent（1.0%）of
+    its Net Sales of Products,．．．」等字樣（參本院卷第
+    91頁），又KNOW-HOW授權合約內容第4 頁亦明載「2.7Licen
+    se Fee.As compensation for the licenses qranted purs
+    uant to the terms of this Agreement, Licensee will p
+    ay to MI a license fee equal to five percent（5.0%）
+    of its Territory during the term of the Agreement.」
+    等字樣，可知原告自國外進口系爭貨物，須依上開合約內容
+    支付相關權利金，亦即資訊軟體權利金1%及KNOW-HOW銷售技
+    術授權合約金5%無訛。
+  (三)復查「LICENSING AND SALES AGRE EMENT（BUSINESS KNOW-
+    HOW ）」中第1 頁已述明「銷售技術權利金」屬Licensed P
+    roperty ，另依第2 頁1.12載明「License Property」shal
+    lmean the Independent Distrib utor Network,the Distr
+    ibutor List, the Marketing Co mpensation Plan,the Co
+    pyright, and the associated K now-how.及「INFORMATIO
+    N TECHNOLOGY SOFTWARE LICENSIN G AGREEMENT 」 第1 頁
+    亦述明所付「資訊軟體權利金」指su bstantial and valua
+    ble computer operating systems,in formation technolo
+    gy, software expertise, management systems know-how
+    and other software and intellectual property。故本案
+    之銷售技術及資訊軟體均屬法律所保護之著作權之客體，使
+    用他人之著作權自應支付權利金。本案原告購買系案貨物時
+    ，依其銷售金額尚需給予具特殊關係之國外母公司「銷售技
+    術權利金」、「商標權利金」、「資訊軟體權利金」等3 項
+    權利金，如不給付，則購買系案貨物之交易無法完成，合於
+    關稅法施行細則第12條第2 項所稱：「…權利金及報酬，指
+    為取得專利權、商標專用權、著作權及其他以立法保護之智
+    慧財產權所支付與進口貨物有關之價款。」驗估處複核結果
+    ，已改依關稅法第29條第3 項第3 款規定，將上述3 項權利
+    金加計列入完稅價格，於法有據。
+  (四)復依「1994年關稅暨貿易總協定第7 條執行協定」第8 條之
+    註釋第1 項第（c）款 ：「1.第8 條第1 項第（c）款 所稱
+    權利金及報酬，包括為專利權、商標權與著作權等項及其他
+    事項支付之價款。…2.買方為經銷或轉售進口貨物之權利所
+    支付之費用，若非為該貨物銷售至輸入國之交易條件之一，
+    則不得加計於進口貨物之實付或應付價格內。」則本案「銷
+    售技術權利金」及「資訊軟體權利金」應否加計於完稅價格
+    之內，端視是否與該進口貨物有關及是否為該貨物銷售至輸
+    入國之交易條件之一。本案原告支付之「銷售技術權利金」
+    係指原告進口系案貨物後，依據國外母公司設計之直銷網路
+    行銷方式銷售系案貨物後所應給付予國外母公司之費用，另
+    「資訊軟體權利金」係支付用以計算直銷商銷售系案貨物後
+    所獲得佣金暨系案貨物銷售網路相關事宜之電腦軟體費用，
+    該2 項費用自與進口貨物有關。又原告與國外母公司具備特
+    殊關係，且系案貨物係專以支付該2 項權利金所取得之直銷
+    網路行銷方式銷售，如不支付該2 項權利金，則系案貨物無
+    進口之必要，故驗估處改依關稅法第29條第3 項規定予以加
+    計，應屬合理適法。
+  (五)又自原告母公司即MORINDA,INC 公司於2004年6 月11日致我
+    國駐洛杉磯代表處之信函所載「．．．These same agreeme
+    nts have been established with all of our subsidiary
+    companies.．．．」等字樣觀之，原告與MORINDA,INC 公司
+    所訂立之系爭軟體授權合約、KNOW-HOW授權合約均與全世界
+    MORINDA, INC公司所有相關企業之合約內容皆係同一，即系
+    爭貨物於全世界均係以直銷方式販售，應可確定，參以原告
+    僅採用該直銷方式銷售系爭進口貨物並按淨銷售額計價暨支
+    付上開權利金，別無其他批發零售方式，益徵原告所稱無須
+    以該種直銷方式銷售系爭進口貨物云云，顯與事實不符，委
+    無可採。又原告空稱其除直銷方式外，有以其他方式銷售系
+    爭進口貨物，卻迄乏提出任何證據以實其說，自難信其所言
+    為實在；至其於進口貨物後究係全部供作販賣之用抑或有部
+    分贈與他人抑部分供其他用途，要屬貨物進口後之問題，且
+    依一般商業營業常規，原告自國外進口貨物，即係以銷售為
+    目的，自無從分辨其於貨物進口後之後續處理（即上述係全
+    部供販賣之用抑或部分贈與他人等），原告所稱殊無足取。
+    遞以原告係直銷公司，既僅得依其與國外母公司即MORINDA,
+    INC 公司所訂立之軟體授權合約及KNOW-HOW授權合約等合約
+    販售系爭進口貨物，是其取得販售之權利顯為必要條件，殆
+    無疑義。則被告以關稅係屬過境稅，依原告系爭應付實付之
+    交易價格制度係按淨銷售額計算支付權利金，而認系爭貨物
+    之完稅價格除所有進口之一切成本外，應加計系爭權利金，
+    即非無據，所為核定自無違反租稅公平原則及法律保留原則
+    可言。
+  (六)至原告所言美國海關、韓國海關所訂定之判別標準及中國大
+    陸銷售系爭進口商品之方式等節，與我國無涉，尚不能執為
+    原告何有利之證明，均附此述明。
+四、綜上所述，被告依首開關稅法及其施行細則暨關稅暨貿易總
+    協定（GATT）第7 條執行協定原則規定，將原告支付予MORI
+    NDA 公司之系爭權利金計入完稅價格，所為處分並無違誤，
+    復查決定及訴願決定遞予維持，亦無不合，原告徒執前詞，
+    訴請撤銷，為無理由，應予駁回。
+五、兩造其餘攻擊防禦方法均與本件判決結果不生影響，故不逐
+    一論述，併此敘明。
+據上論結，本件原告之訴為無理由，爰依行政訴訟法第98條第3
+項前段，判決如主文。
+中    華    民    國    95    年    10    月    31    日
+                       第二庭審判長法  官  徐瑞晃
+                                   法  官  畢乃俊
+                                   法  官  陳金圍
+上為正本係照原本作成。
+如不服本判決，應於送達後20日內，向本院提出上訴狀並表明上
+訴理由，如於本判決宣示後送達前提起上訴者，應於判決送達後
+20日內補提上訴理由書（須按他造人數附繕本）。
+中    華    民    國    95    年    10    月    31    日
+                                   書記官  陳可欣
+
+
+司法院資訊處製作；財團法人民間司法改革基金會備份。
